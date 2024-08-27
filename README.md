@@ -41,7 +41,7 @@ As a community manager, I aim help people to connect through free events around 
 ## 📈 GitHub Analytics
 [![ByIvo's Github Stats](https://github-readme-stats.vercel.app/api?username=byivo&show_icons=true&theme=tokyonight)](https://github.com/byivo)
 
-
+[![@byivo's Holopin board](https://holopin.me/byivo)](https://holopin.io/@byivo)
 <!--
 **ByIvo/byivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
